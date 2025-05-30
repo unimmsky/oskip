@@ -1,0 +1,147 @@
+158.101.80.84#Tokyo#24 ms#100454 kB/s#美国
+152.69.195.36#Osaka#10 ms#101312 kB/s#美国
+141.148.243.115#Frankfurt#176 ms#10196 kB/s#瑞士 Oracle Corporation
+141.148.203.6#Mumbai#124 ms#10240 kB/s#瑞士 Oracle Corporation
+141.148.233.149#Frankfurt#219 ms#10563 kB/s#瑞士 Oracle Corporation
+141.147.147.180#Osaka#56 ms#106065 kB/s#瑞典 Oracle Corporation
+193.123.81.105#Singapore#160 ms#10615 kB/s#英国
+141.147.168.141#Tokyo#6 ms#107170 kB/s#瑞典 Oracle Corporation
+152.67.125.161#Sydney#160 ms#10725 kB/s#美国 3COM公司企业网
+141.147.188.120#Tokyo#7 ms#108028 kB/s#瑞典 Oracle Corporation
+152.67.99.162#Sydney#159 ms#10925 kB/s#美国 3COM公司企业网
+141.148.203.6#Mumbai#143 ms#10965 kB/s#瑞士 Oracle Corporation
+152.67.125.174#Sydney#159 ms#11002 kB/s#美国 3COM公司企业网
+152.67.99.162#Sydney#160 ms#11005 kB/s#美国 3COM公司企业网
+152.67.125.161#Sydney#160 ms#11153 kB/s#美国 3COM公司企业网
+152.67.125.174#Sydney#161 ms#11216 kB/s#美国 3COM公司企业网
+150.230.63.93#Osaka#10 ms#112386 kB/s#美国
+132.145.116.185#Tokyo#14 ms#113713 kB/s#日本 东京Oracle云计算数据中心
+158.101.80.84#Tokyo#5 ms#113846 kB/s#美国
+168.138.13.201#Melbourne#153 ms#11769 kB/s#美国
+141.147.185.63#Tokyo#3 ms#117813 kB/s#瑞典 Oracle Corporation
+192.9.180.162#Sydney#166 ms#11865 kB/s#美国 Nokia
+192.9.180.162#Sydney#159 ms#11882 kB/s#美国 Nokia
+168.138.13.201#Melbourne#148 ms#11959 kB/s#美国
+168.138.46.67#Osaka#30 ms#121513 kB/s#美国
+141.147.185.15#Tokyo#13 ms#122401 kB/s#瑞典 Oracle Corporation
+141.148.187.195#Los Angeles#115 ms#13339 kB/s#瑞士 Oracle Corporation
+141.147.168.141#Tokyo#35 ms#137322 kB/s#瑞典 Oracle Corporation
+138.2.68.173#Singapore#283 ms#14040 kB/s#美国
+141.147.185.63#Tokyo#30 ms#141187 kB/s#瑞典 Oracle Corporation
+141.147.185.15#Tokyo#69 ms#143549 kB/s#瑞典 Oracle Corporation
+141.148.187.195#Los Angeles#162 ms#14551 kB/s#瑞士 Oracle Corporation
+141.147.188.120#Tokyo#38 ms#148600 kB/s#瑞典 Oracle Corporation
+168.138.212.80#Tokyo#4 ms#150549 kB/s#日本 东京Oracle数据中心
+168.138.165.174#Singapore#126 ms#15269 kB/s#美国
+141.148.189.124#Los Angeles#118 ms#15425 kB/s#瑞士 Oracle Corporation
+155.248.181.189#Tokyo#25 ms#156127 kB/s#美国
+131.186.38.162#Los Angeles#112 ms#15920 kB/s#美国
+141.148.189.124#Los Angeles#119 ms#16015 kB/s#瑞士 Oracle Corporation
+131.186.38.48#Los Angeles#128 ms#16075 kB/s#美国
+150.230.207.255#Los Angeles#110 ms#16103 kB/s#美国
+150.230.207.255#Los Angeles#110 ms#16371 kB/s#美国
+131.186.38.162#Los Angeles#105 ms#16594 kB/s#美国
+131.186.38.48#Los Angeles#105 ms#16608 kB/s#美国
+152.67.251.232#San Jose#104 ms#16687 kB/s#美国 3COM公司企业网
+192.9.250.241#San Jose#103 ms#16901 kB/s#美国 Nokia
+152.67.251.232#San Jose#103 ms#16976 kB/s#美国 3COM公司企业网
+47.251.95.178#San Jose#111 ms#17215 kB/s# 香港 特别行政区
+192.9.250.241#San Jose#104 ms#17299 kB/s#美国 Nokia
+8.220.134.136#Singapore#72 ms#18502 kB/s#中国 阿里云
+138.2.68.173#Singapore#89 ms#20782 kB/s#美国
+152.70.155.147#Los Angeles#286 ms#20980 kB/s#美国
+132.226.227.135#Singapore#84 ms#21249 kB/s#荷兰
+152.70.155.147#Los Angeles#144 ms#21266 kB/s#美国
+132.226.227.135#Singapore#86 ms#21850 kB/s#荷兰
+168.138.185.234#Singapore#77 ms#21907 kB/s#美国
+168.138.165.174#Singapore#746 ms#22282 kB/s#美国
+47.74.157.194#Singapore#75 ms#24735 kB/s#新加坡 阿里云
+155.248.186.74#Singapore#98 ms#24957 kB/s#美国
+138.2.107.107#Singapore#87 ms#25073 kB/s#美国
+150.230.200.85#Singapore#119 ms#25235 kB/s#美国
+150.230.200.85#Singapore#71 ms#25423 kB/s#美国
+138.2.68.173#Singapore#88 ms#25532 kB/s#美国
+168.138.165.174#Singapore#82 ms#25549 kB/s#美国
+129.154.194.191#Seoul#87 ms#25970 kB/s#澳大利亚
+138.2.107.107#Singapore#79 ms#26011 kB/s#美国
+146.56.162.25#Seoul#36 ms#26364 kB/s#日本
+155.248.186.74#Singapore#70 ms#26384 kB/s#美国
+146.56.162.25#Seoul#83 ms#2679 kB/s#日本
+193.122.114.82#Seoul#35 ms#27461 kB/s#韩国首尔 oracle云
+132.145.94.80#Seoul#37 ms#27523 kB/s#韩国 首尔Oracle云计算数据中心
+129.154.194.191#Seoul#62 ms#27835 kB/s#澳大利亚
+193.122.114.82#Seoul#64 ms#29366 kB/s#韩国首尔 oracle云
+130.162.130.105#Seoul#62 ms#29438 kB/s#美国
+144.24.90.107#Seoul#58 ms#35567 kB/s#希腊
+152.67.203.34#Seoul#66 ms#39024 kB/s#美国 3COM公司企业网
+158.180.82.186#Seoul#41 ms#42641 kB/s#英国
+144.24.73.232#Seoul#35 ms#43083 kB/s#希腊
+158.180.82.186#Seoul#40 ms#44349 kB/s#英国
+152.67.203.34#Seoul#37 ms#44350 kB/s#美国 3COM公司企业网
+144.24.65.251#Seoul#39 ms#44568 kB/s#希腊
+144.24.65.251#Seoul#78 ms#45377 kB/s#希腊
+144.24.73.232#Seoul#55 ms#46139 kB/s#希腊
+132.145.94.80#Seoul#71 ms#48029 kB/s#韩国 首尔Oracle云计算数据中心
+131.186.33.175#Tokyo#3 ms#49638 kB/s#美国
+138.3.240.63#Frankfurt#235 ms#5016 kB/s#瑞典
+131.186.33.175#Tokyo#64 ms#50848 kB/s#美国
+155.248.181.189#Tokyo#6 ms#51189 kB/s#美国
+130.162.130.105#Seoul#56 ms#51270 kB/s#美国
+141.144.199.13#Frankfurt#178 ms#5538 kB/s#丹麦 Oracle Corporation
+150.136.87.192#Ashburn#271 ms#5879 kB/s#美国 弗吉尼亚州阿什本Oracle云计算数据中心
+144.22.252.124#S?o Paulo#284 ms#6257 kB/s#哥斯达黎加
+144.22.252.124#S?o Paulo#276 ms#6266 kB/s#哥斯达黎加
+150.230.20.4#Amsterdam#263 ms#6323 kB/s#美国
+150.230.20.4#Amsterdam#263 ms#6386 kB/s#美国
+141.148.229.106#Amsterdam#255 ms#6646 kB/s#瑞士 Oracle Corporation
+158.180.231.216#Milan#275 ms#6657 kB/s#英国
+129.159.241.172#Frankfurt#240 ms#6684 kB/s#美国
+141.148.228.176#Frankfurt#263 ms#6685 kB/s#瑞士 Oracle Corporation
+143.47.186.254#Frankfurt#267 ms#6700 kB/s#爱尔兰
+144.21.39.222#Frankfurt#271 ms#6702 kB/s#瑞典
+141.148.237.42#Frankfurt#242 ms#6715 kB/s#瑞士 Oracle Corporation
+144.24.243.207#Zurich#281 ms#6774 kB/s#希腊
+150.230.249.48#Seoul#267 ms#6880 kB/s#美国
+158.180.231.216#Milan#276 ms#6881 kB/s#英国
+47.253.105.131#Ashburn#154 ms#6992 kB/s#美国 阿里云
+158.101.80.84#Tokyo#223 ms#7025 kB/s#美国
+141.148.226.88#Frankfurt#268 ms#7064 kB/s#瑞士 Oracle Corporation
+141.148.226.88#Frankfurt#289 ms#7074 kB/s#瑞士 Oracle Corporation
+168.138.13.201#Melbourne#229 ms#7098 kB/s#美国
+152.67.125.174#Sydney#249 ms#7155 kB/s#美国 3COM公司企业网
+152.70.57.182#Amsterdam#263 ms#7180 kB/s#美国 德克萨斯州达拉斯Oracle(Zenedge)
+141.148.229.106#Amsterdam#256 ms#7227 kB/s#瑞士 Oracle Corporation
+138.3.240.63#Frankfurt#229 ms#7265 kB/s#瑞典
+143.47.186.254#Frankfurt#263 ms#7292 kB/s#爱尔兰
+144.24.243.207#Zurich#254 ms#7312 kB/s#希腊
+141.148.228.176#Frankfurt#259 ms#7334 kB/s#瑞士 Oracle Corporation
+144.21.39.222#Frankfurt#264 ms#7491 kB/s#瑞典
+144.24.90.107#Seoul#36 ms#7494 kB/s#希腊
+141.148.237.42#Frankfurt#243 ms#7598 kB/s#瑞士 Oracle Corporation
+129.159.202.83#Frankfurt#235 ms#7679 kB/s#美国
+152.70.57.182#Amsterdam#264 ms#7684 kB/s#美国 德克萨斯州达拉斯Oracle(Zenedge)
+129.159.202.83#Frankfurt#240 ms#7691 kB/s#美国
+141.147.147.180#Osaka#10 ms#76973 kB/s#瑞典 Oracle Corporation
+144.24.65.251#Seoul#252 ms#7716 kB/s#希腊
+141.148.229.106#Amsterdam#168 ms#7865 kB/s#瑞士 Oracle Corporation
+193.122.58.158#Frankfurt#239 ms#7871 kB/s#英国
+152.67.99.162#Sydney#232 ms#7878 kB/s#美国 3COM公司企业网
+129.159.241.172#Frankfurt#241 ms#7936 kB/s#美国
+138.3.240.63#Frankfurt#243 ms#7961 kB/s#瑞典
+130.61.124.127#Frankfurt#241 ms#7983 kB/s#德国 法兰克福Oracle云计算数据中心
+150.230.159.76#Frankfurt#260 ms#8034 kB/s#美国
+193.122.58.158#Frankfurt#235 ms#8044 kB/s#英国
+150.230.159.76#Frankfurt#240 ms#8048 kB/s#美国
+150.230.159.76#Frankfurt#235 ms#8049 kB/s#美国
+130.61.124.127#Frankfurt#237 ms#8054 kB/s#德国 法兰克福Oracle云计算数据中心
+152.67.125.161#Sydney#235 ms#8121 kB/s#美国 3COM公司企业网
+141.147.188.120#Tokyo#210 ms#8132 kB/s#瑞典 Oracle Corporation
+64.110.104.30#Osaka#205 ms#8208 kB/s#美国
+141.147.114.60#London#246 ms#8598 kB/s#瑞典 Oracle Corporation
+132.145.116.185#Tokyo#4 ms#86387 kB/s#日本 东京Oracle云计算数据中心
+141.147.114.60#London#220 ms#8655 kB/s#瑞典 Oracle Corporation
+155.248.181.189#Tokyo#207 ms#8844 kB/s#美国
+141.147.168.141#Tokyo#209 ms#8846 kB/s#瑞典 Oracle Corporation
+168.138.46.67#Osaka#12 ms#91218 kB/s#美国
+193.123.81.105#Singapore#157 ms#9764 kB/s#英国
+141.144.202.73#Frankfurt#181 ms#9882 kB/s#丹麦 Oracle Corporation
